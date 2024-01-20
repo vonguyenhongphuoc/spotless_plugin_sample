@@ -1,0 +1,1 @@
+# spotless_plugin_sample
